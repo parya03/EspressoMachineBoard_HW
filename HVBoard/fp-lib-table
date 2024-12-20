@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "HWBoard")(type "KiCad")(uri "/Users/p7810456/Documents/EspressoMachineBoard_HW/KiCad_Parts_Libraries/Footprints.pretty")(options "")(descr ""))
+)
