@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "B3P-VH")(type "KiCad")(uri "/Users/p7810456/Documents/EspressoMachineBoard_HW/KiCad_Parts_Libraries/Symbols/B3P-VH__LF__SN_.kicad_sym")(options "")(descr ""))
+  (lib (name "WX-DC12003")(type "KiCad")(uri "/Users/p7810456/Documents/EspressoMachineBoard_HW/KiCad_Parts_Libraries/WX-DC12003_Kicad/WX-DC12003.kicad_sym")(options "")(descr ""))
+)

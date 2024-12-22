@@ -12828,9 +12828,9 @@
 		)
 		(uuid "71eb712e-0c9f-402e-979c-d51a7ba5f07e")
 	)
-	(text "TODO:\nWheatstone bridge and other resistor values\nCapacitor footprints\nFinal measurements"
+	(text "TODO:\nWheatstone bridge and other resistor values\nCapacitor footprints\nFinal measurements\nThermistor 60hz LPF"
 		(exclude_from_sim no)
-		(at 263.652 238.506 0)
+		(at 262.89 248.666 0)
 		(effects
 			(font
 				(size 5.08 5.08)

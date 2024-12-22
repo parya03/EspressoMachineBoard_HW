@@ -1,0 +1,3 @@
+[submodule "KiCad_Parts_Libraries/WX-DC12003_Kicad"]
+	path = KiCad_Parts_Libraries/WX-DC12003_Kicad
+	url = https://github.com/yaserharba/WX-DC12003_Kicad.git
