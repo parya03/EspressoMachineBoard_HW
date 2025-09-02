@@ -1,6 +1,13 @@
 Espresso Machine Board Project
 Make a new controller for my Chefman CraftBrew
 
+### Rev 1 issues:
+- Hole spacing for the HV board is off. Oh well.
+- Terminal blocks for power input are not sized for 14 gauge wire, which is required for 15 amps. The holes for the terminal blocks aren't big enough to directly solder 14 gauge wire either.
+- SOT-23 NMOS's have the wrong pinout (KiCad issue) and had to be soldered sideways
+
+For Rev 2, might just remove HV side entirely and go with solid state relays instead.
+
 TODO Documentation
 
 Power converter KiCad symbol and footprint from:
